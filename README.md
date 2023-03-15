@@ -1,5 +1,7 @@
 # Platzi Test Night-Day
 
+https://user-images.githubusercontent.com/93850511/225458382-d90df030-c3a5-4183-8027-9b1bd18807a4.mp4
+
 <div style="display: inline_block">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
